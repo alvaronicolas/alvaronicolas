@@ -8,3 +8,5 @@
 - 📫 How to contact me: [Linkedin](www.linkedin.com/in/alvaronicolas)
 
 [![jhc twitter](https://img.shields.io/badge/Twitter-@alvaronicolas-00aced.svg?style=flat&logo=twitter)](https://twitter.com/alvaronicolas)
+
+con ❤️ desde Chile
