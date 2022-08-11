@@ -9,4 +9,5 @@
 
 [![jhc twitter](https://img.shields.io/badge/Twitter-@alvaronicolas-00aced.svg?style=flat&logo=twitter)](https://twitter.com/alvaronicolas)
 
-con ❤️ desde Chile
+Whit ❤️ From Chile.
+Con ❤️ desde Chile.
