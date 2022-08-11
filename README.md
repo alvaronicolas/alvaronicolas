@@ -9,6 +9,8 @@
 
 [![jhc twitter](https://img.shields.io/badge/Twitter-@alvaronicolas-00aced.svg?style=flat&logo=twitter)](https://twitter.com/alvaronicolas)
 
+[![jhc Linkedin](https://img.shields.io/badge/Linkedin-@alvaronicolas-00aced.svg?style=flat&logo=twitter)](https://www.linkedin.com/in/alvaronicolas/)
+
 Whit ❤️ From Chile.
 
 Con ❤️ desde Chile.
